@@ -21,5 +21,14 @@ export const appStyles = StyleSheet.create({
       width: '20%',
       height: '50%',
       backgroundColor: '#fff'
+    },
+    input: {
+        height: '10%',
+        borderWidth: 1,
+        borderRadius: 15,
+        borderColor: '#fff',
+        padding: 10,
+        width: '90%',
+        color: '#fff'
     }
   })
